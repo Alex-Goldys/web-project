@@ -13,3 +13,10 @@
     text-transform: uppercase;
     text-align: center;
 }
+
+.text__simple-descriptions {
+    font-size: 18 px; 
+    color: black; 
+    text-transform: uppercase;
+    text-align: center;
+}
