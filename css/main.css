@@ -1,7 +1,9 @@
 .text__block-start {
     font-size: 100px;
+    color: blue;
 }
 
 .text__additional {
-    font-size: 100px;  
+    font-size: 100px; 
+    color: orange; 
 }
