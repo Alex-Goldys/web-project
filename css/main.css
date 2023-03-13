@@ -1,13 +1,10 @@
-h2 {
-    font-size: 20px;
-    color: blue;
-    text-transform: uppercase;
-    text-align: center;
+img {
+    width: 43.75px;
+    height: 43.75px;
 }
-
 .text__additional {
-    font-size: 20px; 
-    color: orange; 
+    font-size: 28 px; 
+    color: black; 
     text-transform: uppercase;
     text-align: center;
 }
