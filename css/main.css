@@ -1,9 +1,13 @@
 .text__block-start {
     font-size: 100px;
     color: blue;
+    text-transform: uppercase;
+    text-align: center;
 }
 
 .text__additional {
     font-size: 100px; 
     color: orange; 
+    text-transform: uppercase;
+    text-align: center;
 }
