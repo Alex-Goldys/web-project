@@ -1,5 +1,7 @@
+@media only screen and (max-width: 480px) {
 .img__macbook-pro {
-    width: 50%;
+    width: 100%;
+}
 }
 
 .img__ibm-logo {
