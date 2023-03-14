@@ -8,6 +8,7 @@
     color: black; 
     text-transform: uppercase;
     text-align: center;
+    font-family: Graphik;
 }
 
 .text__simple-descriptions {
@@ -15,4 +16,5 @@
     color: black; 
     text-transform: uppercase;
     text-align: center;
+    font-family: Graphik;
 }
